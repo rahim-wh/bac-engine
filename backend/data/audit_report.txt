@@ -1,0 +1,34 @@
+PASS  raw file: 6 columns, no empty cells
+PASS  app file keeps every raw sitting exactly once
+PASS  app file themes == tidy file themes
+PASS  app file units == tidy file units
+PASS  every sitting with no themes is listed in review_issues.csv
+PASS  no duplicate tidy rows
+PASS  no empty theme
+PASS  no leftover separators (; | ' / ' ' + ') inside a theme
+PASS  no leading/trailing/double spaces
+PASS  no theme that is a single character or only digits
+PASS  no digit-prefixed or 'Ex..' leftovers
+PASS  one spelling per theme (case/accent/punctuation variants merged)
+PASS  Type is theme|format only
+PASS  each theme belongs to exactly one unit
+PASS  empty unit only for English essay topics
+PASS  a unit never contains ' : ' (English sub-theme leaked)
+PASS  every Groupe has >= 2 themes
+PASS  a Groupe never spans two sittings
+PASS  no theme twice inside one Groupe
+PASS  themes of one exercise (same discipline) share a Groupe
+PASS  aliases.csv: no duplicate variants
+PASS  aliases.csv: no no-op alias
+PASS  aliases.csv: every canonical name exists in the data
+PASS  hierarchy.csv: every child exists in the data
+PASS  domains: years 2008-2026, 6 branches
+
+WARNINGS (data limits, not code errors):
+  -  11 x empty / placeholder   (see review_issues.csv)
+  -  18 x identical text in both sessions (verify)   (see review_issues.csv)
+  -  30 x no analysis chapter recorded (source table lists only algebra/geometry)   (see review_issues.csv)
+  -  12 x no unit/chapter given   (see review_issues.csv)
+  -   1 x sitting missing inside the timeline   (see review_issues.csv)
+  - short/ambiguous fragments to confirm or alias: ALI, An, Ana, Eq, Exp, MAT, MCC, MVA, PIC, RI, RLC, UAL
+  - themes seen only once: Allemand=0, Anglais=16, Arabe (محاور النص / الإنتاج الكتابي)=0, Espagnol=0, Français=5, Génie mécanique=2, Génie électrique=2, Italien=0, Mathématiques=2, Mathématiques (par exercice)=5, Philosophie (الفلسفة)=0, Physique=2, Physique-Chimie=26, SVT (par chapitre)=0, SVT (par exercice)=0
