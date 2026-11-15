@@ -1,0 +1,76 @@
+📂 BAC_TUNISIA_MASTER_INDEX/
+│
+├── 📂 00_SHARED_MATIERES/
+│   ├── 📂 Optional_Languages/ (Allemand, Italien, Chinois, Espagnol, Russe, Turc, Portugais - Principal Session Only)
+│   └── 📂 Artistic_Matieres/ (Musique, Arts Plastiques, Théâtre - Principal Session Only)
+│
+├── 📂 01_SECTION_MATHEMATIQUE/
+│   ├── Arabe (Standard)
+│   ├── Francais (Standard)
+│   ├── Anglais (Standard)
+│   ├── Mathematiques (Specific to Math)
+│   ├── Sciences Physiques (Specific to Math)
+│   ├── SVT
+│   ├── Informatique
+│   └── Philosophie (Standard - Principal Only)
+│
+├── 📂 02_SECTION_SCIENCES_EXPERIMENTALES/
+│   ├── Arabe (Standard)
+│   ├── Francais (Standard)
+│   ├── Anglais (Standard)
+│   ├── Mathematiques (Scientific)
+│   ├── Sciences Physiques (Scientific)
+│   ├── SVT (Major exam)
+│   ├── Informatique
+│   └── Philosophie (Standard - Principal Only)
+│
+├── 📂 03_SECTION_SCIENCES_TECHNIQUES/
+│   ├── Arabe (Standard)
+│   ├── Francais (Tech-specific)
+│   ├── Anglais (Tech-specific)
+│   ├── Mathematiques (Technical)
+│   ├── Sciences Physiques (Technical)
+│   ├── Technique (Génie Électrique & Mécanique / Technologie)
+│   ├── Informatique
+│   └── Philosophie (Standard - Principal Only)
+│
+├── 📂 04_SECTION_SCIENCES_INFORMATIQUES/
+│   ├── Arabe (Standard)
+│   ├── Francais (Standard)
+│   ├── Anglais (Standard)
+│   ├── Mathematiques (Informatics)
+│   ├── Sciences Physiques
+│   ├── Algorithmique_et_Programmation
+│   ├── STI (Systemes et Technologies de l'Informatique)
+│   └── Philosophie (Standard - Principal Only)
+│
+├── 📂 05_SECTION_ECONOMIE_ET_GESTION/
+│   ├── Arabe (Standard)
+│   ├── Francais (Standard)
+│   ├── Anglais (Standard)
+│   ├── Mathematiques (Eco)
+│   ├── Economie
+│   ├── Gestion
+│   ├── Histoire_Geographie
+│   ├── Informatique
+│   └── Philosophie (Standard - Principal Only)
+│
+├── 📂 06_SECTION_LETTRES/
+│   ├── Arabe (Lettres - Advanced)
+│   ├── Francais (Lettres - Advanced)
+│   ├── Anglais (Lettres - Advanced)
+│   ├── Philosophie (Lettres - Advanced & Controls Session Enabled)
+│   ├── Histoire_Geographie (Major)
+│   ├── Pensée_Islamique (Islamic Thinking)
+│   ├── Informatique
+│   └── Optionnels_Specifiques (Math / SVT / 3ème Langue as options)
+│
+└── 📂 07_SECTION_SPORT/
+    ├── Arabe (Standard)
+    ├── Francais (Standard)
+    ├── Anglais (Standard)
+    ├── Mathematiques
+    ├── Sciences_Physiques
+    ├── SVT / Sciences Biologiques
+    ├── Sport_Theorique (Épreuve théorique de sport)
+    └── Philosophie (Standard - Principal Only)
