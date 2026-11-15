@@ -1,0 +1,320 @@
+{
+  "reference": {
+    "programme_year": 2026,
+    "basis": "User-provided BAC_TUNISIA_MASTER_INDEX structure and 2026 examination timetable",
+    "historical_subject_structure": "Not modeled; use the 2026 structure as the reference"
+  },
+  "sections": {
+    "MATH": {
+      "name": "Mathématiques",
+      "subjects": [
+        "AR_STANDARD",
+        "FR_STANDARD",
+        "EN_STANDARD",
+        "MATH_SPECIFIC_MATH",
+        "PHYSICS_SPECIFIC_MATH",
+        "SVT_STANDARD",
+        "INFORMATIQUE_STANDARD",
+        "PHILO_STANDARD"
+      ]
+    },
+    "SE": {
+      "name": "Sciences expérimentales",
+      "subjects": [
+        "AR_STANDARD",
+        "FR_STANDARD",
+        "EN_STANDARD",
+        "MATH_SCIENTIFIC",
+        "PHYSICS_SCIENTIFIC",
+        "SVT_MAJOR",
+        "INFORMATIQUE_STANDARD",
+        "PHILO_STANDARD"
+      ]
+    },
+    "ST": {
+      "name": "Sciences techniques",
+      "subjects": [
+        "AR_STANDARD",
+        "FR_TECH",
+        "EN_TECH",
+        "MATH_TECHNICAL",
+        "PHYSICS_TECHNICAL",
+        "TECHNIQUE",
+        "INFORMATIQUE_STANDARD",
+        "PHILO_STANDARD"
+      ]
+    },
+    "SI": {
+      "name": "Sciences informatiques",
+      "subjects": [
+        "AR_STANDARD",
+        "FR_STANDARD",
+        "EN_STANDARD",
+        "MATH_INFORMATICS",
+        "PHYSICS_STANDARD",
+        "ALGORITHMICS_PROGRAMMING",
+        "STI",
+        "PHILO_STANDARD"
+      ]
+    },
+    "EG": {
+      "name": "Économie et gestion",
+      "subjects": [
+        "AR_STANDARD",
+        "FR_STANDARD",
+        "EN_STANDARD",
+        "MATH_ECO",
+        "ECONOMIE",
+        "GESTION",
+        "HISTOIRE_GEOGRAPHIE",
+        "INFORMATIQUE_STANDARD",
+        "PHILO_STANDARD"
+      ]
+    },
+    "LET": {
+      "name": "Lettres",
+      "subjects": [
+        "AR_LETTRES",
+        "FR_LETTRES",
+        "EN_LETTRES",
+        "PHILO_LETTRES",
+        "HISTOIRE_GEOGRAPHIE_MAJOR",
+        "PENSEE_ISLAMIQUE",
+        "INFORMATIQUE_STANDARD",
+        "LETTERS_OPTIONAL_MATH",
+        "LETTERS_OPTIONAL_SVT",
+        "LETTERS_OPTIONAL_THIRD_LANGUAGE"
+      ]
+    },
+    "SPO": {
+      "name": "Sport",
+      "subjects": [
+        "AR_STANDARD",
+        "FR_STANDARD",
+        "EN_STANDARD",
+        "MATH_STANDARD",
+        "PHYSICS_STANDARD",
+        "SVT_BIOLOGICAL",
+        "SPORT_THEORY",
+        "PHILO_STANDARD"
+      ]
+    }
+  },
+  "subjects": {
+    "AR_STANDARD": {
+      "name": "Arabe",
+      "variant": "Standard",
+      "chapters": []
+    },
+    "AR_LETTRES": {
+      "name": "Arabe",
+      "variant": "Lettres – Advanced",
+      "chapters": []
+    },
+    "FR_STANDARD": {
+      "name": "Français",
+      "variant": "Standard",
+      "chapters": []
+    },
+    "FR_TECH": {
+      "name": "Français",
+      "variant": "Tech-specific",
+      "chapters": []
+    },
+    "FR_LETTRES": {
+      "name": "Français",
+      "variant": "Lettres – Advanced",
+      "chapters": []
+    },
+    "EN_STANDARD": {
+      "name": "Anglais",
+      "variant": "Standard",
+      "chapters": []
+    },
+    "EN_TECH": {
+      "name": "Anglais",
+      "variant": "Tech-specific",
+      "chapters": []
+    },
+    "EN_LETTRES": {
+      "name": "Anglais",
+      "variant": "Lettres – Advanced",
+      "chapters": []
+    },
+    "MATH_SPECIFIC_MATH": {
+      "name": "Mathématiques",
+      "variant": "Specific to Math section",
+      "chapters": []
+    },
+    "MATH_SCIENTIFIC": {
+      "name": "Mathématiques",
+      "variant": "Scientific",
+      "chapters": []
+    },
+    "MATH_TECHNICAL": {
+      "name": "Mathématiques",
+      "variant": "Technical",
+      "chapters": []
+    },
+    "MATH_INFORMATICS": {
+      "name": "Mathématiques",
+      "variant": "Informatics",
+      "chapters": []
+    },
+    "MATH_ECO": {
+      "name": "Mathématiques",
+      "variant": "Economics",
+      "chapters": []
+    },
+    "MATH_STANDARD": {
+      "name": "Mathématiques",
+      "variant": "Standard (Sport section)",
+      "chapters": []
+    },
+    "PHYSICS_SPECIFIC_MATH": {
+      "name": "Sciences physiques",
+      "variant": "Specific to Math section",
+      "chapters": []
+    },
+    "PHYSICS_SCIENTIFIC": {
+      "name": "Sciences physiques",
+      "variant": "Scientific",
+      "chapters": []
+    },
+    "PHYSICS_TECHNICAL": {
+      "name": "Sciences physiques",
+      "variant": "Technical",
+      "chapters": []
+    },
+    "PHYSICS_STANDARD": {
+      "name": "Sciences physiques",
+      "variant": "Standard",
+      "chapters": []
+    },
+    "SVT_STANDARD": {
+      "name": "SVT",
+      "variant": "Standard",
+      "chapters": []
+    },
+    "SVT_MAJOR": {
+      "name": "SVT",
+      "variant": "Major exam",
+      "chapters": []
+    },
+    "SVT_BIOLOGICAL": {
+      "name": "SVT / Sciences biologiques",
+      "variant": "Sport section",
+      "chapters": []
+    },
+    "INFORMATIQUE_STANDARD": {
+      "name": "Informatique",
+      "variant": "Standard",
+      "chapters": []
+    },
+    "TECHNIQUE": {
+      "name": "Technique",
+      "variant": "Génie électrique et mécanique / Technologie",
+      "chapters": []
+    },
+    "ALGORITHMICS_PROGRAMMING": {
+      "name": "Algorithmique et programmation",
+      "variant": "Section-specific",
+      "chapters": []
+    },
+    "STI": {
+      "name": "Systèmes et technologies de l'informatique (STI)",
+      "variant": "Section-specific",
+      "chapters": []
+    },
+    "ECONOMIE": {
+      "name": "Économie",
+      "variant": "Section-specific",
+      "chapters": []
+    },
+    "GESTION": {
+      "name": "Gestion",
+      "variant": "Section-specific",
+      "chapters": []
+    },
+    "HISTOIRE_GEOGRAPHIE": {
+      "name": "Histoire-Géographie",
+      "variant": "Standard",
+      "chapters": []
+    },
+    "HISTOIRE_GEOGRAPHIE_MAJOR": {
+      "name": "Histoire-Géographie",
+      "variant": "Major",
+      "chapters": []
+    },
+    "PENSEE_ISLAMIQUE": {
+      "name": "Pensée islamique",
+      "variant": "Section-specific",
+      "chapters": []
+    },
+    "SPORT_THEORY": {
+      "name": "Sport théorique",
+      "variant": "Épreuve théorique de sport",
+      "chapters": []
+    },
+    "PHILO_STANDARD": {
+      "name": "Philosophie",
+      "variant": "Standard",
+      "session": [
+        "Principal"
+      ],
+      "chapters": []
+    },
+    "PHILO_LETTRES": {
+      "name": "Philosophie",
+      "variant": "Lettres – Advanced",
+      "session": [
+        "Principal",
+        "Contrôle"
+      ],
+      "chapters": []
+    },
+    "LETTERS_OPTIONAL_MATH": {
+      "name": "Mathématiques",
+      "variant": "Option spécifique – Lettres",
+      "chapters": []
+    },
+    "LETTERS_OPTIONAL_SVT": {
+      "name": "SVT",
+      "variant": "Option spécifique – Lettres",
+      "chapters": []
+    },
+    "LETTERS_OPTIONAL_THIRD_LANGUAGE": {
+      "name": "Troisième langue",
+      "variant": "Option spécifique – Lettres",
+      "chapters": []
+    }
+  },
+  "shared_matières": {
+    "OPTIONAL_LANGUAGES": {
+      "name": "Optional Languages",
+      "session": [
+        "Principal"
+      ],
+      "subjects": [
+        "Allemand",
+        "Italien",
+        "Chinois",
+        "Espagnol",
+        "Russe",
+        "Turc",
+        "Portugais"
+      ]
+    },
+    "ARTISTIC_MATIERES": {
+      "name": "Artistic Matières",
+      "session": [
+        "Principal"
+      ],
+      "subjects": [
+        "Musique",
+        "Arts plastiques",
+        "Théâtre"
+      ]
+    }
+  }
+}
