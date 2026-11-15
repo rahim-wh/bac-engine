@@ -1,0 +1,53 @@
+﻿Matière,Variante,Canonique
+Physique-Chimie,Conv,Convertisseur
+Physique-Chimie,Transm,Transmission
+Physique-Chimie,Filtres,Filtre
+Physique-Chimie,onde,Ondes
+Physique-Chimie,Ind,Induction
+Physique-Chimie,RlcF,RLC forcé
+Physique-Chimie,Rlc F,RLC forcé
+Physique-Chimie,RLC F,RLC forcé
+Physique-Chimie,Forcé,RLC forcé
+Physique-Chimie,Alcools,Alcool
+Physique-Chimie,Les alcools,Alcool
+Physique-Chimie,dos,Dosage
+Physique-Chimie,Piles,Pile
+Physique-Chimie,Elec for,RLC forcé
+Physique,Piles,Pile
+Mathématiques,Complexe,Complexes
+Mathématiques,Arithm,Arithmétique
+Mathématiques (par exercice),Proba,Probabilités
+Mathématiques (par exercice),Comp,Complexes
+Mathématiques (par exercice),Esp,Espace
+Génie électrique,compteur sync,Compteur synchrone
+Génie électrique,compteur async,Compteur asynchrone
+Mathématiques,espace,Géométrie espace
+Mathématiques,Géo espace,Géométrie espace
+Mathématiques,Ln,Fct ln
+Mathématiques,exp,Fct exp
+Mathématiques,Suites,Suite
+Mathématiques,Matrices,Matrice
+Mathématiques,Graphes,Graphe
+Mathématiques (par exercice),Prob,Probabilités
+Mathématiques (par exercice),Proba (VA),Probabilités
+Mathématiques (par exercice),Eq d,Équation différentielle
+Mathématiques (par exercice),Equ diff,Équation différentielle
+Mathématiques (par exercice),Eq.diff,Équation différentielle
+Génie mécanique,Transmission du mvt,Transmission de mvt
+Physique-Chimie,Spectre,Spectres
+Physique-Chimie,Cinét,Cinétique
+Physique-Chimie,Estérif,Estérification
+Physique-Chimie,Amide,Amides
+Physique-Chimie,Diffr,Diffraction
+Physique-Chimie,F. Actif,Filtre Actif
+Physique-Chimie,Conductance G,Conductance
+Physique-Chimie,Modér,Loi de modération
+Physique-Chimie,Eq chim,Équilibre
+Mathématiques,Statistiques,Stat
+Mathématiques,Comp,Complexes
+Physique-Chimie,N am,Elec non amorti
+Physique-Chimie,G,Conductance
+Physique-Chimie,Cond,Conductance
+Mathématiques,Esp,Géométrie espace
+Mathématiques,Graph exp,Fct exp
+Mathématiques,Graph Ln,Fct ln
